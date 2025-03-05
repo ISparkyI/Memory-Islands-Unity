@@ -1,0 +1,74 @@
+{
+  "HomeMenu": {
+    "HomeIslandText": "Острова",
+    "PlayButton": "Играть",
+    "MyIsland": "Мой остров",
+    "CoupleCards": "Найди пару",
+    "ItemsSorting": "Сортировка предметов",
+    "MyIslandreqlvl": "Нужен третий уровень аккаунта",
+    "BuyButton": "Купить",
+    "CommingsoonText": "Скоро...",
+    "CollectText": "Собрать"
+  },
+
+  "UpgradesMenu": {
+    "UpgradeText": "Улучшения",
+    "Tips": "Подсказки",
+    "Pins": "Пины",
+    "Cards": "Карточки",
+    "Tv": "ТВ",
+    "Bg": "Задний фон",
+    "Owned": "Куплено",
+    "SelectedButton": "Выбрано"
+  },
+
+  "ShopMenu": {
+    "Free": "Бесплатно",
+    "ShopText": "Магазин",
+    "Energy": "Энергия",
+    "Coins": "Монеты",
+    "Rubins": "Рубины",
+    "Limited": "Особое",
+    "infinityenergy": "Беск. энергия",
+    "popular": "Популярное",
+    "Coins2000": "Монеты х2.000",
+    "Coins5000": "Монеты х5.000",
+    "Coins20000": "Монеты х20.000",
+    "Coins100000": "Монеты х100.000",
+    "Rubins20": "Рубины х20",
+    "Rubins50": "Рубины х50",
+    "Rubins150": "Рубины х150",
+    "Rubins500": "Рубины х500"
+  },
+
+  "SettingsMenu": {
+    "SettingsText": "Настройки",
+    "Sounds": "Звуки",
+    "Language": "Язык",
+    "Music": "Музыка",
+    "LanguageButtonText": "Русский"
+  },
+
+  "SelectAvatarMenu": {
+    "SelectButton": "Выбрать",
+    "ChangeButton": "Сменить",
+    "Enternickname": "Введите никнейм...",
+    "Error": "Никнейм не может содержать более 16 символов."
+  },
+
+  "WinPanelMenu": {
+    "CompletedText": "Забрать",
+    "Claim": "Забрать",
+    "Reload": "Перезагрузить",
+    "Tryagain": "Еще раз!",
+    "Internet": "Интернет-соединение отсутствует. Пожалуйста, подключитесь к сети.",
+    "Lvlsinfo": "Найдите пару карт!",
+    "Tvlvlsinfo": "Найдите карту, которую показывают по телевизору!",
+    "Numberslvlsinfo": "Отсортируйте карты от 0 до наибольшего числа!"
+  },
+
+  "MyIslandMenu": {
+    "Mansion": "Особняк",
+    "Bar": "Бар"
+  }
+}

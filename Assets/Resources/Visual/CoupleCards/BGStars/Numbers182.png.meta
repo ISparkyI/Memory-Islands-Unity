@@ -1,0 +1,264 @@
+fileFormatVersion: 2
+guid: 133002affa19ce246be92f361a409d63
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7545643820505771505
+    second: Numbers182_0
+  - first:
+      213: -3376099305981971518
+    second: Numbers182_1
+  - first:
+      213: -1410558066893911054
+    second: Numbers182_2
+  - first:
+      213: -3566969368215889878
+    second: Numbers182_3
+  - first:
+      213: -7865676517389266817
+    second: Numbers182_4
+  - first:
+      213: -2873881590069363884
+    second: Numbers182_5
+  - first:
+      213: 4216675541194924454
+    second: Numbers182_6
+  - first:
+      213: -6297822334870353130
+    second: Numbers182_7
+  - first:
+      213: 1117405437952518943
+    second: Numbers182_8
+  - first:
+      213: -695166323444319976
+    second: Numbers182_9
+  - first:
+      213: 5649938566282009606
+    second: Numbers182_10
+  - first:
+      213: 3513325874960481943
+    second: Numbers182_11
+  - first:
+      213: 4240574853340389906
+    second: Numbers182_12
+  - first:
+      213: 7155255683552294909
+    second: Numbers182_13
+  - first:
+      213: -8004198551966419532
+    second: Numbers182_14
+  - first:
+      213: -3742837170494962711
+    second: Numbers182_15
+  - first:
+      213: -8056964280077355243
+    second: Numbers182_16
+  - first:
+      213: 7595267669151920020
+    second: Numbers182_17
+  - first:
+      213: -129154983292137562
+    second: Numbers182_18
+  - first:
+      213: 9196140719850799989
+    second: Numbers182_19
+  - first:
+      213: -6773525996182294117
+    second: Numbers182_20
+  - first:
+      213: -2322356719730350317
+    second: Numbers182_21
+  - first:
+      213: 7781915711128293081
+    second: Numbers182_22
+  - first:
+      213: -8433637345942934799
+    second: Numbers182_23
+  - first:
+      213: 8231182386530032368
+    second: Numbers182_24
+  - first:
+      213: 3170479352352291161
+    second: Numbers182_25
+  - first:
+      213: 6398607221561748872
+    second: Numbers182_26
+  - first:
+      213: -1697205802318102005
+    second: Numbers182_27
+  - first:
+      213: -849766158996892057
+    second: Numbers182_28
+  - first:
+      213: -1242952830000634934
+    second: Numbers182_29
+  - first:
+      213: -4748718632151097771
+    second: Numbers182_30
+  - first:
+      213: 4481316135129024363
+    second: Numbers182_31
+  - first:
+      213: 3645119056266756953
+    second: Numbers182_32
+  - first:
+      213: 2545912727574183562
+    second: Numbers182_33
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Numbers182_16
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 17
+        width: 1050
+        height: 548
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5177af5cca9ef2090800000000000000
+      internalID: -8056964280077355243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 89530ac53778582419ae30c81e265bc7
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Numbers182_16: -8056964280077355243
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,765 @@
+fileFormatVersion: 2
+guid: 412460d1cc79f3947b7ca50b2ea13780
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -150542026114845992
+    second: Avatarki_0
+  - first:
+      213: -6863422440211565817
+    second: Avatarki_1
+  - first:
+      213: 743941108620850258
+    second: Avatarki_2
+  - first:
+      213: 3701116958724571514
+    second: Avatarki_3
+  - first:
+      213: 2250495502595071384
+    second: Avatarki_4
+  - first:
+      213: -5264066884534956140
+    second: Avatarki_5
+  - first:
+      213: 7604493074056099255
+    second: Avatarki_6
+  - first:
+      213: 3003670212446542032
+    second: Avatarki_7
+  - first:
+      213: 1876534240249353761
+    second: Avatarki_8
+  - first:
+      213: 748482447963674104
+    second: Avatarki_9
+  - first:
+      213: -1096864246843658073
+    second: Avatarki_10
+  - first:
+      213: -5740366869846605012
+    second: Avatarki_11
+  - first:
+      213: -6422661575827381718
+    second: Avatarki_12
+  - first:
+      213: 4286857783349025413
+    second: Avatarki_13
+  - first:
+      213: -3756456377083690647
+    second: Avatarki_14
+  - first:
+      213: 2605375667455814893
+    second: Avatarki_15
+  - first:
+      213: -6222666915696773145
+    second: Avatarki_16
+  - first:
+      213: -8760679162221671699
+    second: Avatarki_17
+  - first:
+      213: -5387640118511464728
+    second: Avatarki_18
+  - first:
+      213: 2348372326678570571
+    second: Avatarki_19
+  - first:
+      213: -7081153622985433651
+    second: Avatarki_20
+  - first:
+      213: -6490099148503546276
+    second: Avatarki_21
+  - first:
+      213: 6418451863877670356
+    second: Avatarki_22
+  - first:
+      213: -4491509458137533557
+    second: Avatarki_23
+  - first:
+      213: -6791444781771970179
+    second: Avatarki_24
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Avatarki_0
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 3240
+        width: 704
+        height: 704
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d238a923da29edf0800000000000000
+      internalID: -150542026114845992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avatarki_1
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 3240
+        width: 704
+        height: 704
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 703beb397a930c0a0800000000000000
+      internalID: -6863422440211565817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avatarki_2
+      rect:
+        serializedVersion: 2
+        x: 1696
+        y: 3240
+        width: 704
+        height: 704
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 254f7292f72035a00800000000000000
+      internalID: 743941108620850258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avatarki_3
+      rect:
+        serializedVersion: 2
+        x: 2480
+        y: 3240
+        width: 704
+        height: 704
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a71c3fcb3420d5330800000000000000
+      internalID: 3701116958724571514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avatarki_4
+      rect:
+        serializedVersion: 2
+        x: 3264
+        y: 3240
+        width: 704
+        height: 704
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89d1bc86cbd5b3f10800000000000000
+      internalID: 2250495502595071384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avatarki_5
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 2468
+        width: 704
+        height: 704
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49f85690f0742f6b0800000000000000
+      internalID: -5264066884534956140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avatarki_6
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 2468
+        width: 704
+        height: 704
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b538081926988960800000000000000
+      internalID: 7604493074056099255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avatarki_7
+      rect:
+        serializedVersion: 2
+        x: 1696
+        y: 2468
+        width: 704
+        height: 704
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d85c43e42e2fa920800000000000000
+      internalID: 3003670212446542032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avatarki_8
+      rect:
+        serializedVersion: 2
+        x: 2480
+        y: 2468
+        width: 704
+        height: 704
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1269beef2f9ca0a10800000000000000
+      internalID: 1876534240249353761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avatarki_9
+      rect:
+        serializedVersion: 2
+        x: 3264
+        y: 2468
+        width: 704
+        height: 704
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f55d7f12d4236a00800000000000000
+      internalID: 748482447963674104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avatarki_10
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1696
+        width: 704
+        height: 704
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a0be0867c727c0f0800000000000000
+      internalID: -1096864246843658073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avatarki_11
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 1696
+        width: 704
+        height: 704
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c234f52eebe1650b0800000000000000
+      internalID: -5740366869846605012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avatarki_12
+      rect:
+        serializedVersion: 2
+        x: 1696
+        y: 1696
+        width: 704
+        height: 704
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a222244535f1ed6a0800000000000000
+      internalID: -6422661575827381718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avatarki_13
+      rect:
+        serializedVersion: 2
+        x: 2480
+        y: 1696
+        width: 704
+        height: 704
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58a1323f07afd7b30800000000000000
+      internalID: 4286857783349025413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avatarki_14
+      rect:
+        serializedVersion: 2
+        x: 3264
+        y: 1696
+        width: 704
+        height: 704
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9610dadd3d26edbc0800000000000000
+      internalID: -3756456377083690647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avatarki_15
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 924
+        width: 704
+        height: 704
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dec662d9d57282420800000000000000
+      internalID: 2605375667455814893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avatarki_16
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 924
+        width: 704
+        height: 704
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e77156c865a4a9a0800000000000000
+      internalID: -6222666915696773145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avatarki_17
+      rect:
+        serializedVersion: 2
+        x: 1696
+        y: 924
+        width: 704
+        height: 704
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dea4c90d7b0db6680800000000000000
+      internalID: -8760679162221671699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avatarki_18
+      rect:
+        serializedVersion: 2
+        x: 2480
+        y: 924
+        width: 704
+        height: 704
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ee0b7e6bd14b35b0800000000000000
+      internalID: -5387640118511464728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avatarki_19
+      rect:
+        serializedVersion: 2
+        x: 3264
+        y: 924
+        width: 704
+        height: 704
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b46a80c5038179020800000000000000
+      internalID: 2348372326678570571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avatarki_20
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 152
+        width: 704
+        height: 704
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcd9bf52c40babd90800000000000000
+      internalID: -7081153622985433651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avatarki_21
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 152
+        width: 704
+        height: 704
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c568160e5398ee5a0800000000000000
+      internalID: -6490099148503546276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avatarki_22
+      rect:
+        serializedVersion: 2
+        x: 1696
+        y: 152
+        width: 704
+        height: 704
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d55f5ab6fbe21950800000000000000
+      internalID: 6418451863877670356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avatarki_23
+      rect:
+        serializedVersion: 2
+        x: 2480
+        y: 152
+        width: 704
+        height: 704
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b83b762e1f3faa1c0800000000000000
+      internalID: -4491509458137533557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avatarki_24
+      rect:
+        serializedVersion: 2
+        x: 3264
+        y: 152
+        width: 704
+        height: 704
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d792dce14f0ffb1a0800000000000000
+      internalID: -6791444781771970179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Avatarki_0: -150542026114845992
+      Avatarki_1: -6863422440211565817
+      Avatarki_10: -1096864246843658073
+      Avatarki_11: -5740366869846605012
+      Avatarki_12: -6422661575827381718
+      Avatarki_13: 4286857783349025413
+      Avatarki_14: -3756456377083690647
+      Avatarki_15: 2605375667455814893
+      Avatarki_16: -6222666915696773145
+      Avatarki_17: -8760679162221671699
+      Avatarki_18: -5387640118511464728
+      Avatarki_19: 2348372326678570571
+      Avatarki_2: 743941108620850258
+      Avatarki_20: -7081153622985433651
+      Avatarki_21: -6490099148503546276
+      Avatarki_22: 6418451863877670356
+      Avatarki_23: -4491509458137533557
+      Avatarki_24: -6791444781771970179
+      Avatarki_3: 3701116958724571514
+      Avatarki_4: 2250495502595071384
+      Avatarki_5: -5264066884534956140
+      Avatarki_6: 7604493074056099255
+      Avatarki_7: 3003670212446542032
+      Avatarki_8: 1876534240249353761
+      Avatarki_9: 748482447963674104
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,74 @@
+{
+  "HomeMenu": {
+    "HomeIslandText": "Острови",
+    "PlayButton": "Грати",
+    "MyIsland": "Мій острів",
+    "CoupleCards": "Знайди пару",
+    "ItemsSorting": "Сортування предметів",
+    "MyIslandreqlvl": "Потрібен третій рівень аккаунта",
+    "BuyButton": "Купити",
+    "CommingsoonText": "Скоро...",
+    "CollectText": "Забрати"
+  },
+
+  "UpgradesMenu": {
+    "UpgradeText": "Модернізація",
+    "Tips": "Підказки",
+    "Pins": "Стікери-піни",
+    "Cards": "Карточки",
+    "Tv": "ТВ",
+    "Bg": "Задній фон",
+    "Owned": "Куплено",
+    "SelectedButton": "Вибрано"
+  },
+
+  "ShopMenu": {
+    "Free": "Безкоштовно",
+    "ShopText": "Магазин",
+    "Energy": "Енергія",
+    "Coins": "Монети",
+    "Rubins": "Рубіни",
+    "Limited": "Лімітоване",
+    "infinityenergy": "Неск. енергія",
+    "popular": "Популярне",
+    "Coins2000": "Монети х2.000",
+    "Coins5000": "Монети х5.000",
+    "Coins20000": "Монети х20.000",
+    "Coins100000": "Монети х100.000",
+    "Rubins20": "Рубіни х20",
+    "Rubins50": "Рубіни х50",
+    "Rubins150": "Рубіни х150",
+    "Rubins500": "Рубіни х500"
+  },
+
+  "SettingsMenu": {
+    "SettingsText": "Налаштування",
+    "Sounds": "Звуки",
+    "Language": "Мова",
+    "Music": "Музика",
+    "LanguageButtonText": "Українська"
+  },
+
+  "SelectAvatarMenu": {
+    "SelectButton": "Вибрати",
+    "ChangeButton": "Змінити",
+    "Enternickname": "Введіть нікнейм...",
+    "Error": "Нікнейм не може містити більше 16 символів."
+  },
+
+  "WinPanelMenu": {
+    "CompletedText": "Забрати",
+    "Claim": "Забрати",
+    "Reload": "Перезагрузити",
+    "Tryagain": "Ще раз!",
+    "Internet": "Інтернет-з'єднання відсутнє. Будь ласка, підключіться до мережі.",
+    "Lvlsinfo": "Знайди пару карток!",
+    "Tvlvlsinfo": "Знайдіть картку, яку показують по телевізору!",
+    "Numberslvlsinfo": "Відсортувати картки від 0 до найбільшого числа!"
+  },
+
+  "MyIslandMenu": {
+    "Mansion": "Садиба",
+    "Bar": "Бар"
+  }
+}

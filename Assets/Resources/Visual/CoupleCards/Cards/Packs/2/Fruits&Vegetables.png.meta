@@ -1,0 +1,1265 @@
+fileFormatVersion: 2
+guid: 384668012bbb71744a3c83c4afe5b539
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3684713618591849604
+    second: Fruits&Vegetables_0
+  - first:
+      213: -3101102295034831111
+    second: Fruits&Vegetables_1
+  - first:
+      213: 6898807930972452285
+    second: Fruits&Vegetables_2
+  - first:
+      213: -6714113282888861588
+    second: Fruits&Vegetables_3
+  - first:
+      213: -3938851897264259732
+    second: Fruits&Vegetables_4
+  - first:
+      213: 4695621150366757113
+    second: Fruits&Vegetables_5
+  - first:
+      213: -8950849059322218711
+    second: Fruits&Vegetables_6
+  - first:
+      213: -5950608611614810305
+    second: Fruits&Vegetables_7
+  - first:
+      213: 939641679096864772
+    second: Fruits&Vegetables_8
+  - first:
+      213: -8134664943448081415
+    second: Fruits&Vegetables_9
+  - first:
+      213: 356405925994515948
+    second: Fruits&Vegetables_10
+  - first:
+      213: 7679347637895097594
+    second: Fruits&Vegetables_11
+  - first:
+      213: 8383955400976155564
+    second: Fruits&Vegetables_12
+  - first:
+      213: 8702215777164169546
+    second: Fruits&Vegetables_13
+  - first:
+      213: -898797006667086184
+    second: Fruits&Vegetables_14
+  - first:
+      213: 601923699492307438
+    second: Fruits&Vegetables_15
+  - first:
+      213: -7130388486304152604
+    second: Fruits&Vegetables_16
+  - first:
+      213: -4453635966765989706
+    second: Fruits&Vegetables_17
+  - first:
+      213: 269417966259613612
+    second: Fruits&Vegetables_18
+  - first:
+      213: 3340231865362192240
+    second: Fruits&Vegetables_19
+  - first:
+      213: 7091808515125207982
+    second: Fruits&Vegetables_20
+  - first:
+      213: 6152079963165074155
+    second: Fruits&Vegetables_21
+  - first:
+      213: -3427163319791190729
+    second: Fruits&Vegetables_22
+  - first:
+      213: 5701866622517416992
+    second: Fruits&Vegetables_23
+  - first:
+      213: -1585158412620075730
+    second: Fruits&Vegetables_24
+  - first:
+      213: -8440130664143847578
+    second: Fruits&Vegetables_25
+  - first:
+      213: -6937859415781314028
+    second: Fruits&Vegetables_26
+  - first:
+      213: 6383172439206797316
+    second: Fruits&Vegetables_27
+  - first:
+      213: 1209380744704806618
+    second: Fruits&Vegetables_28
+  - first:
+      213: -3929126737132976955
+    second: Fruits&Vegetables_29
+  - first:
+      213: -5885169633444263215
+    second: Fruits&Vegetables_30
+  - first:
+      213: 1826898367444518253
+    second: Fruits&Vegetables_31
+  - first:
+      213: 180861839838604949
+    second: Fruits&Vegetables_32
+  - first:
+      213: -548704832274015998
+    second: Fruits&Vegetables_33
+  - first:
+      213: -2279594644760176882
+    second: Fruits&Vegetables_34
+  - first:
+      213: -4182770426517110580
+    second: Fruits&Vegetables_35
+  - first:
+      213: 6423198745907104266
+    second: Fruits&Vegetables_36
+  - first:
+      213: 327742713025628158
+    second: Fruits&Vegetables_37
+  - first:
+      213: 2967202801286224241
+    second: Fruits&Vegetables_38
+  - first:
+      213: -2709287217616236036
+    second: Fruits&Vegetables_39
+  - first:
+      213: 7777791307254683675
+    second: Fruits&Vegetables_40
+  - first:
+      213: -918350274562538010
+    second: Fruits&Vegetables_41
+  - first:
+      213: 8956988485014074392
+    second: Fruits&Vegetables_42
+  - first:
+      213: 8810686759308232077
+    second: Fruits&Vegetables_43
+  - first:
+      213: 3347749384170376428
+    second: Fruits&Vegetables_44
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Fruits&Vegetables_0
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 1695
+        width: 184
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48c163f738bb22330800000000000000
+      internalID: 3684713618591849604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fruits&Vegetables_1
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 1695
+        width: 187
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fedc4c94eba6f4d0800000000000000
+      internalID: -3101102295034831111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fruits&Vegetables_2
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 1695
+        width: 185
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db5b243034d7dbf50800000000000000
+      internalID: 6898807930972452285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fruits&Vegetables_3
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 1695
+        width: 186
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c687da7ca8da2d2a0800000000000000
+      internalID: -6714113282888861588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fruits&Vegetables_4
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 1695
+        width: 187
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6db0b081136659c0800000000000000
+      internalID: -3938851897264259732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fruits&Vegetables_5
+      rect:
+        serializedVersion: 2
+        x: 1266
+        y: 1695
+        width: 185
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f0fb6bce823a2140800000000000000
+      internalID: 4695621150366757113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fruits&Vegetables_6
+      rect:
+        serializedVersion: 2
+        x: 1488
+        y: 1695
+        width: 186
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 927b5f4443238c380800000000000000
+      internalID: -8950849059322218711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fruits&Vegetables_7
+      rect:
+        serializedVersion: 2
+        x: 1712
+        y: 1695
+        width: 184
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3f9153def03b6da0800000000000000
+      internalID: -5950608611614810305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fruits&Vegetables_8
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 1367
+        width: 184
+        height: 301
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40068b2f0274a0d00800000000000000
+      internalID: 939641679096864772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fruits&Vegetables_9
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 1367
+        width: 187
+        height: 301
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fb34fe455ddb1f80800000000000000
+      internalID: -8134664943448081415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fruits&Vegetables_10
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 1367
+        width: 185
+        height: 301
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ced4fb62d4532f400800000000000000
+      internalID: 356405925994515948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fruits&Vegetables_11
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 1367
+        width: 186
+        height: 301
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afce87f5df5829a60800000000000000
+      internalID: 7679347637895097594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fruits&Vegetables_12
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 1367
+        width: 187
+        height: 301
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca3c6ef540bc95470800000000000000
+      internalID: 8383955400976155564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fruits&Vegetables_13
+      rect:
+        serializedVersion: 2
+        x: 1266
+        y: 1367
+        width: 185
+        height: 301
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a419bac942b74c870800000000000000
+      internalID: 8702215777164169546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fruits&Vegetables_14
+      rect:
+        serializedVersion: 2
+        x: 1488
+        y: 1367
+        width: 186
+        height: 301
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8968c6c62e4d683f0800000000000000
+      internalID: -898797006667086184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fruits&Vegetables_15
+      rect:
+        serializedVersion: 2
+        x: 1712
+        y: 1367
+        width: 184
+        height: 301
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee1c0226a667a5800800000000000000
+      internalID: 601923699492307438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fruits&Vegetables_16
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 1037
+        width: 184
+        height: 301
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e34e4b3375cb0d90800000000000000
+      internalID: -7130388486304152604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fruits&Vegetables_17
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 1037
+        width: 187
+        height: 301
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b082024fa18132c0800000000000000
+      internalID: -4453635966765989706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fruits&Vegetables_18
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 1037
+        width: 185
+        height: 301
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: caf230f763a2db300800000000000000
+      internalID: 269417966259613612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fruits&Vegetables_19
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 1037
+        width: 186
+        height: 301
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0779a5a2f23ea5e20800000000000000
+      internalID: 3340231865362192240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fruits&Vegetables_20
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 1037
+        width: 187
+        height: 301
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea3e02f354a2b6260800000000000000
+      internalID: 7091808515125207982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fruits&Vegetables_21
+      rect:
+        serializedVersion: 2
+        x: 1266
+        y: 1037
+        width: 185
+        height: 301
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be2a042a124906550800000000000000
+      internalID: 6152079963165074155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fruits&Vegetables_22
+      rect:
+        serializedVersion: 2
+        x: 1488
+        y: 1037
+        width: 186
+        height: 301
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73df8985e154070d0800000000000000
+      internalID: -3427163319791190729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fruits&Vegetables_23
+      rect:
+        serializedVersion: 2
+        x: 1712
+        y: 1037
+        width: 184
+        height: 301
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0249ecfbb79112f40800000000000000
+      internalID: 5701866622517416992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fruits&Vegetables_24
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 708
+        width: 184
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2dee0f72d2600ae0800000000000000
+      internalID: -1585158412620075730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fruits&Vegetables_25
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 708
+        width: 187
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66ff2d1f0e1aeda80800000000000000
+      internalID: -8440130664143847578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fruits&Vegetables_26
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 708
+        width: 185
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41271c4ae95c7bf90800000000000000
+      internalID: -6937859415781314028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fruits&Vegetables_27
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 708
+        width: 186
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4002cf29385959850800000000000000
+      internalID: 6383172439206797316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fruits&Vegetables_28
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 708
+        width: 187
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adec356316598c010800000000000000
+      internalID: 1209380744704806618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fruits&Vegetables_29
+      rect:
+        serializedVersion: 2
+        x: 1266
+        y: 708
+        width: 185
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c403bbcc00f879c0800000000000000
+      internalID: -3929126737132976955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fruits&Vegetables_30
+      rect:
+        serializedVersion: 2
+        x: 1488
+        y: 708
+        width: 186
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1da83ab366da35ea0800000000000000
+      internalID: -5885169633444263215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fruits&Vegetables_31
+      rect:
+        serializedVersion: 2
+        x: 1712
+        y: 708
+        width: 184
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d658548c2627a5910800000000000000
+      internalID: 1826898367444518253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fruits&Vegetables_32
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 379
+        width: 184
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59ee00592ec828200800000000000000
+      internalID: 180861839838604949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fruits&Vegetables_33
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 379
+        width: 187
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20954c9bcdb9268f0800000000000000
+      internalID: -548704832274015998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fruits&Vegetables_34
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 379
+        width: 185
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e07df279fb04d50e0800000000000000
+      internalID: -2279594644760176882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fruits&Vegetables_35
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 379
+        width: 186
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc040765570d3f5c0800000000000000
+      internalID: -4182770426517110580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fruits&Vegetables_36
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 379
+        width: 187
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0a07835a39c32950800000000000000
+      internalID: 6423198745907104266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fruits&Vegetables_37
+      rect:
+        serializedVersion: 2
+        x: 1266
+        y: 379
+        width: 185
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef78d93d2406c8400800000000000000
+      internalID: 327742713025628158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fruits&Vegetables_38
+      rect:
+        serializedVersion: 2
+        x: 1488
+        y: 379
+        width: 186
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17995331a3f9d2920800000000000000
+      internalID: 2967202801286224241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fruits&Vegetables_39
+      rect:
+        serializedVersion: 2
+        x: 1712
+        y: 379
+        width: 184
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf15a7741ada66ad0800000000000000
+      internalID: -2709287217616236036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fruits&Vegetables_40
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 49
+        width: 186
+        height: 301
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1859064cf340fb60800000000000000
+      internalID: 7777791307254683675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fruits&Vegetables_41
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 49
+        width: 187
+        height: 301
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e541597a4d5143f0800000000000000
+      internalID: -918350274562538010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fruits&Vegetables_42
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 49
+        width: 185
+        height: 301
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 814378a229d9d4c70800000000000000
+      internalID: 8956988485014074392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fruits&Vegetables_43
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 49
+        width: 187
+        height: 301
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d850ec33de8d54a70800000000000000
+      internalID: 8810686759308232077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fruits&Vegetables_44
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 49
+        width: 185
+        height: 301
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cec0288e358957e20800000000000000
+      internalID: 3347749384170376428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Fruits&Vegetables_0: 3684713618591849604
+      Fruits&Vegetables_1: -3101102295034831111
+      Fruits&Vegetables_10: 356405925994515948
+      Fruits&Vegetables_11: 7679347637895097594
+      Fruits&Vegetables_12: 8383955400976155564
+      Fruits&Vegetables_13: 8702215777164169546
+      Fruits&Vegetables_14: -898797006667086184
+      Fruits&Vegetables_15: 601923699492307438
+      Fruits&Vegetables_16: -7130388486304152604
+      Fruits&Vegetables_17: -4453635966765989706
+      Fruits&Vegetables_18: 269417966259613612
+      Fruits&Vegetables_19: 3340231865362192240
+      Fruits&Vegetables_2: 6898807930972452285
+      Fruits&Vegetables_20: 7091808515125207982
+      Fruits&Vegetables_21: 6152079963165074155
+      Fruits&Vegetables_22: -3427163319791190729
+      Fruits&Vegetables_23: 5701866622517416992
+      Fruits&Vegetables_24: -1585158412620075730
+      Fruits&Vegetables_25: -8440130664143847578
+      Fruits&Vegetables_26: -6937859415781314028
+      Fruits&Vegetables_27: 6383172439206797316
+      Fruits&Vegetables_28: 1209380744704806618
+      Fruits&Vegetables_29: -3929126737132976955
+      Fruits&Vegetables_3: -6714113282888861588
+      Fruits&Vegetables_30: -5885169633444263215
+      Fruits&Vegetables_31: 1826898367444518253
+      Fruits&Vegetables_32: 180861839838604949
+      Fruits&Vegetables_33: -548704832274015998
+      Fruits&Vegetables_34: -2279594644760176882
+      Fruits&Vegetables_35: -4182770426517110580
+      Fruits&Vegetables_36: 6423198745907104266
+      Fruits&Vegetables_37: 327742713025628158
+      Fruits&Vegetables_38: 2967202801286224241
+      Fruits&Vegetables_39: -2709287217616236036
+      Fruits&Vegetables_4: -3938851897264259732
+      Fruits&Vegetables_40: 7777791307254683675
+      Fruits&Vegetables_41: -918350274562538010
+      Fruits&Vegetables_42: 8956988485014074392
+      Fruits&Vegetables_43: 8810686759308232077
+      Fruits&Vegetables_44: 3347749384170376428
+      Fruits&Vegetables_5: 4695621150366757113
+      Fruits&Vegetables_6: -8950849059322218711
+      Fruits&Vegetables_7: -5950608611614810305
+      Fruits&Vegetables_8: 939641679096864772
+      Fruits&Vegetables_9: -8134664943448081415
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

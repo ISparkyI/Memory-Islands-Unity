@@ -1,0 +1,74 @@
+{
+  "HomeMenu": {
+    "HomeIslandText": "Islands",
+    "PlayButton": "PLAY",
+    "MyIsland": "My Island",
+    "CoupleCards": "Couple Cards",
+    "ItemsSorting": "Items Sorting",
+    "MyIslandreqlvl": "account level 3 is required",
+    "BuyButton": "Buy",
+    "CommingsoonText": "Coming Soon...",
+    "CollectText": "Collect"
+  },
+
+  "UpgradesMenu": {
+    "UpgradeText": "Upgrade",
+    "Tips": "TIPS",
+    "Pins": "PINS",
+    "Cards": "CARDS",
+    "Tv": "TV-SKINS",
+    "Bg": "BG-SKINS",
+    "Owned": "Owned",
+    "SelectedButton": "Selected"
+  },
+
+  "ShopMenu": {
+    "Free": "Free",
+    "ShopText": "Shop",
+    "Energy": "ENERGY",
+    "Coins": "COINS",
+    "Rubins": "RUBINS",
+    "Limited": "LIMITED",
+    "infinityenergy": "Infinity Energy",
+    "popular": "popular",
+    "Coins2000": "Coins x2.000",
+    "Coins5000": "Coins x5.000",
+    "Coins20000": "Coins x20.000",
+    "Coins100000": "Coins x100.000",
+    "Rubins20": "Rubins x20",
+    "Rubins50": "Rubins x50",
+    "Rubins150": "Rubins x150",
+    "Rubins500": "Rubins x500"
+  },
+
+  "SettingsMenu": {
+    "SettingsText": "SETTINGS",
+    "Sounds": "Sounds",
+    "Language": "Language",
+    "Music": "Music",
+    "LanguageButtonText": "English"
+  },
+
+  "SelectAvatarMenu": {
+    "SelectButton": "Select",
+    "ChangeButton": "Change",
+    "Enternickname": "Enter nickname...",
+    "Error": "Nickname cannot be more than 16 characters."
+  },
+
+  "WinPanelMenu": {
+    "CompletedText": "Completed",
+    "Claim": "Claim",
+    "Reload": "Reload",
+    "Tryagain": "Try again!",
+    "Internet": "There is no internet connection. Please reconnect to the network.",
+    "Lvlsinfo": "Find a match!",
+    "Tvlvlsinfo": "Find the card that is shown on the TV!",
+    "Numberslvlsinfo": "Sort the cards from 0 to the highest number!"
+  },
+
+  "MyIslandMenu": {
+    "Mansion": "Mansion",
+    "Bar": "Bar"
+  }
+}
